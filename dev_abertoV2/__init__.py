@@ -1,2 +1,2 @@
-__all__ = ['dev_aberto']
-from dev_aberto.dev_aberto import hello
+__all__ = ['dev_abertoV2']
+from dev_abertoV2.dev_abertoV2 import hello
