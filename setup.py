@@ -16,6 +16,8 @@ setup(
     ],
     python_requires='>=3.12',  # Specify Python version compatibility
     install_requires=[  # List dependencies
-        "requests",  # Example dependency
+        "requests", 
+        "setuptools",
+        "wheel",
     ],
 )
