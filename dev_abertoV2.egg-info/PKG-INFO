@@ -10,6 +10,8 @@ Requires-Python: >=3.12
 Description-Content-Type: text/markdown
 License-File: LICENSE
 Requires-Dist: requests
+Requires-Dist: setuptools
+Requires-Dist: wheel
 
 # aula5pypi
  
